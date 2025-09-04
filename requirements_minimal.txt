@@ -1,0 +1,26 @@
+# Minimal requirements for Sustainable Agriculture AI/ML System
+# These are the essential packages to get the system running
+
+# Core ML (essential)
+scikit-learn
+pandas
+numpy
+
+# Web Framework (essential)
+flask
+flask-cors
+
+# Data Processing (essential)
+joblib
+
+# Utilities (essential)
+requests
+
+# Optional packages (can be installed later)
+# matplotlib
+# seaborn
+# plotly
+# dash
+# dash-bootstrap-components
+# scipy
+# python-dotenv
